@@ -1,0 +1,31 @@
+body {
+  /* background-image: url(img/download.jpg); */
+  background-repeat: repeat;
+  background-size: cover;
+}
+p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+    sans-serif;
+  line-height: 200%;
+}
+
+.d {
+  color: rgb(213, 213, 234);
+  text-align: center;
+}
+a:visited{
+  color:aqua
+}
+
+a:hover{
+color: hotpink
+
+}
+a:active{
+
+  color:rgb(171, 9, 9)
+}
+
+
+
+
